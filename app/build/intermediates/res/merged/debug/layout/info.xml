@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:padding="10dp"
+  android:background="@drawable/info_background">
+    <LinearLayout android:id="@+id/linearLayout5" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <Button android:id="@+id/buttonRunnersHigh" android:background="@drawable/logo_runnershigh" android:onClick="parallaxsoftvisitWebsite" android:layout_height="match_parent" android:layout_width="match_parent"></Button>
+
+        <LinearLayout android:id="@+id/linearLayout4" android:layout_weight="1" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+         </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout6"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.63"
+        android:gravity="bottom">
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="4"></View>
+
+        <Button
+            android:id="@+id/buttonFHS"
+            android:layout_width="267dp"
+            android:layout_height="87dp"
+            android:background="@drawable/logo_fhs"
+            android:onClick="parallaxsoftvisitWebsite"></Button>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="4"
+            android:scaleType="fitCenter" />
+
+    </LinearLayout>
+
+</LinearLayout>

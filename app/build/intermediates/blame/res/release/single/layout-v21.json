@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\401b6b63ddda74309e834d63ece498b36fb4264a\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

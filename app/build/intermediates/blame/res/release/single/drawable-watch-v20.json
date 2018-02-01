@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5104ca84cd50d29a58a7469ba346c28ba2d837c9\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5104ca84cd50d29a58a7469ba346c28ba2d837c9\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\5104ca84cd50d29a58a7469ba346c28ba2d837c9\\output\\res\\drawable-watch-v20\\common_google_signin_btn_text_disabled.xml"
+    }
+]

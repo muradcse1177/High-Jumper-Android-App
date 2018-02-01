@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\deathsound.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\deathsound.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\jump.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\jump.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\trampoline.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\trampoline.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\ninek.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\ninek.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\slow.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\slow.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\reset.wma",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\reset.wma"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\bonus.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\bonus.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\gamebackground.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\gamebackground.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\save.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\save.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\petenicesplash.mp3",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\petenicesplash.mp3"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\raw\\threek.wma",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\raw\\threek.wma"
+    }
+]

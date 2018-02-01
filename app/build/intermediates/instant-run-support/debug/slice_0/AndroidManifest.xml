@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.parallaxsoft.highjumper"
+      android:versionCode="451"
+      android:versionName="4.51"
+      split="lib_slice_0_apk">
+</manifest>

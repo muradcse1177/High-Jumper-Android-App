@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_single_row.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\list_single_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\012d7df9ae5da5465eb4472f52570fdcffbd8aee\\output\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\info.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\info.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf91267bfc68a97e49f050e2a302c1c51eb3f008\\output\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf91267bfc68a97e49f050e2a302c1c51eb3f008\\output\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\012d7df9ae5da5465eb4472f52570fdcffbd8aee\\output\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\test.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\test.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\012d7df9ae5da5465eb4472f52570fdcffbd8aee\\output\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\012d7df9ae5da5465eb4472f52570fdcffbd8aee\\output\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf91267bfc68a97e49f050e2a302c1c51eb3f008\\output\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\401b6b63ddda74309e834d63ece498b36fb4264a\\output\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\menu.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\012d7df9ae5da5465eb4472f52570fdcffbd8aee\\output\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\runnershigh.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\runnershigh.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\wallet_test_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\499d40cfa6ff7e6e5abee4a5081746527fd1e382\\output\\res\\layout\\wallet_test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\401b6b63ddda74309e834d63ece498b36fb4264a\\output\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf91267bfc68a97e49f050e2a302c1c51eb3f008\\output\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\highscore.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\highscore.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\highscoreform.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\highscoreform.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf91267bfc68a97e49f050e2a302c1c51eb3f008\\output\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\bf91267bfc68a97e49f050e2a302c1c51eb3f008\\output\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\401b6b63ddda74309e834d63ece498b36fb4264a\\output\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\401b6b63ddda74309e834d63ece498b36fb4264a\\output\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\012d7df9ae5da5465eb4472f52570fdcffbd8aee\\output\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_row.xml",
+        "source": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\src\\main\\res\\layout\\list_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\HP\\AndroidStudioProjects\\HighJumper\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\HP\\.android\\build-cache\\88beaf1a6c803b72306573c82e3164a318d919a6\\output\\res\\layout\\select_dialog_item_material.xml"
+    }
+]
